@@ -1,6 +1,6 @@
 import React from "react";
 
-const NotFound = () => {
+const Demo = () => {
   return (
     <div>
       <p>
@@ -11,4 +11,4 @@ const NotFound = () => {
   );
 };
 
-export default NotFound;
+export default Demo;
